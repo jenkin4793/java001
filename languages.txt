@@ -7,3 +7,6 @@ Javascript
 LISP
 HTML
 Ruby
+
+Verilog
+VHDL
