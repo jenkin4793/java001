@@ -2,3 +2,8 @@ C++
 C
 Java
 Python
+
+Javascript
+LISP
+HTML
+Ruby
